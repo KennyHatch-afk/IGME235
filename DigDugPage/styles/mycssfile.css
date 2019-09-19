@@ -1,0 +1,57 @@
+<style>
+    h1 {
+        color: #F87855;
+        font-family: sans-serif;
+        border-bottom: 1px solid blue;
+    }
+
+    dl dd {
+        display: inline;
+        margin: 0;
+    }
+
+    dl dd:after {
+        display: block;
+        content: '';
+    }
+
+    dl dt {
+        display: inline-block;
+        min-width: 100px;
+    }
+
+    main, header, footer{ 
+        margin: 0 auto;
+        width: 75%;
+        padding: 1rem;
+        border: 1px solid black;
+    }
+
+    blockquote {
+        background-color: #B8AABD;
+        padding: 1rem;
+    }
+    
+    body {
+        background-color: #80AABF;
+        font-family: Arial, sans-serif;
+    }
+    
+    h2 {
+        color: #1E1463;
+        font-family: 'Squada One', cursive;
+    }
+    
+    p   {
+        margin-left: 100px;
+    }
+    
+    footer {
+        background-color: #B8AABD;
+    }
+
+a:link { color: #1E1463}
+a:visited { color: #000000}
+
+    img.side {float:right; margin: 0 12px;}
+</style>
