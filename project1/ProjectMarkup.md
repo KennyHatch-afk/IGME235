@@ -1,5 +1,5 @@
 # Wehat Simulator
-##Website
+## Website
 [Here](https://people.rit.edu/kah8090/235/project1/)
 
 ## Intro
